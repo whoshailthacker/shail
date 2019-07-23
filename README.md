@@ -1,2 +1,2 @@
 # shail
-Workshop on github
+learning repository
